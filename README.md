@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi there! I'm a Full-Stack Web Developer with experience in React, PostgreSQL, Express.js, and Node.js. 🌟 I'm passionate about using my skills to build useful and impactful applications.<br><br>👨‍💻 Currently working on: Smart Brain Project - a face recognition web app which can detect faces from pictures given. 🤖 Built with React, PostgreSQL, Express.js, and Node.js. I'm also using the Clarifai API to power the face recognition feature.<br><br>📚 Currently learning: Blockchain technology 🔗 and how to use it to build decentralized applications.<br><br>🚀 I'm always looking for opportunities to learn and grow as a developer, so feel free to reach out if you'd like to collaborate on a project or have any questions!
+👋 Hi there! I'm a Full-Stack Web Developer with experience in React, PostgreSQL, Express.js, and Node.js. 🌟 I'm passionate about using my skills to build useful and impactful applications.
+
+👨‍💻 Currently, I'm working on honing my skills and actively job searching. I'm always seeking out new learning opportunities and working on personal projects to continue developing my skills.
+
+🤖 I recently completed the Smart Brain Project, a face recognition web app built with React, PostgreSQL, Express.js, and Node.js. The app uses the Clarifai API to power the face recognition feature.
+
+📚 I'm currently learning about blockchain technology 🔗 and how to use it to build decentralized applications.
+
+🚀 I'm always looking for opportunities to learn and grow as a developer, so feel free to reach out if you'd like to collaborate on a project or have any questions!
 
 
 ## 🌐 Socials:

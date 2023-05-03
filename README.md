@@ -5,7 +5,6 @@
 
 🤖 I recently completed the Smart Brain Project, a face recognition web app built with React, PostgreSQL, Express.js, and Node.js. The app uses the Clarifai API to power the face recognition feature.
 
-📚 I'm currently learning about blockchain technology 🔗 and how to use it to build decentralized applications.
 
 🚀 I'm always looking for opportunities to learn and grow as a developer, so feel free to reach out if you'd like to collaborate on a project or have any questions!
 
